@@ -1,0 +1,3 @@
+/home/lsq/workspace/code/cmake-tutorial/Demo1/CMakeFiles/edit_cache.dir
+/home/lsq/workspace/code/cmake-tutorial/Demo1/CMakeFiles/rebuild_cache.dir
+/home/lsq/workspace/code/cmake-tutorial/Demo1/CMakeFiles/Demo.dir
